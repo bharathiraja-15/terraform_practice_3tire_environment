@@ -1,0 +1,2 @@
+# terraform_practice_3tire_environment
+terraform_practice_3tire_environment like dev stage and production
